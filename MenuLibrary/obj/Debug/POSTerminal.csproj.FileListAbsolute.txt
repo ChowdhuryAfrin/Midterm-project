@@ -1,0 +1,12 @@
+C:\Users\PCUser\Documents\Mid Term Project\MenuLibrary\MenuLibrary\bin\Debug\POSTerminal.dll
+C:\Users\PCUser\Documents\Mid Term Project\MenuLibrary\MenuLibrary\bin\Debug\POSTerminal.pdb
+C:\Users\PCUser\Documents\Mid Term Project\MenuLibrary\MenuLibrary\obj\Debug\POSTerminal.dll
+C:\Users\PCUser\Documents\Mid Term Project\MenuLibrary\MenuLibrary\obj\Debug\POSTerminal.pdb
+C:\Users\PCUser\Documents\Mid Term Project\MenuLibrary\MenuLibrary\obj\Debug\POSTerminal.csprojResolveAssemblyReference.cache
+C:\Users\PCUser\Documents\Mid Term Project\MenuLibrary\MenuLibrary\bin\Debug\MenuFile.txt
+E:\Mid Term Project\MenuLibrary\MenuLibrary\bin\Debug\MenuFile.txt
+E:\Mid Term Project\MenuLibrary\MenuLibrary\bin\Debug\POSTerminal.dll
+E:\Mid Term Project\MenuLibrary\MenuLibrary\bin\Debug\POSTerminal.pdb
+E:\Mid Term Project\MenuLibrary\MenuLibrary\obj\Debug\POSTerminal.csprojResolveAssemblyReference.cache
+E:\Mid Term Project\MenuLibrary\MenuLibrary\obj\Debug\POSTerminal.dll
+E:\Mid Term Project\MenuLibrary\MenuLibrary\obj\Debug\POSTerminal.pdb

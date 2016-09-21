@@ -1,2 +1,0 @@
-# Midterm-project
-POS terminal
